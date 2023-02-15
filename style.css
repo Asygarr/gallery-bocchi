@@ -167,6 +167,7 @@ body {
     }
 
     .container {
+        margin: auto;
         grid-template-areas: 
         'header header header'
         'navbar navbar navbar'
